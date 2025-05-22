@@ -1,2 +1,2 @@
-# DiagramaB-sicoUML
-Exercício de um diagrama simples com funcionalidades básicas de um Iphone
+# DiagramaBasicoUML
+Exercício de um diagrama UML com funcionalidades básicas de um Iphone
